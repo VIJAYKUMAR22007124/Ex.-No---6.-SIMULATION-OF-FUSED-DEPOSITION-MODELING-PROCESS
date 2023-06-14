@@ -46,8 +46,6 @@ STEP 6 : STOP PROCESS
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119657657/bb6ba350-4b11-4563-8cb5-2280b5e6e749)
 Explanation :Post processing is carried out to refine and enhance the final object.Once the print is complete, carefully remove the printed object from the build plate.The support material need to be removed from the model.
-
-### Name: B.VIJAY KUMAR
-### Register Number:212222230173
-## Result:
-### Thus the simulation on the FDM process is completed & prototyping process is studied.
+## Name: B.VIJAY KUMAR
+## Register Number:212222230173
+## Result: Thus the simulation on the FDM process is completed & prototyping process is studied.
