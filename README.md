@@ -1,13 +1,17 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
 ## DATE: 
+
 ## AIM:
+
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
 ## REQUIREMENTS:
+
 ### System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+
 ### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
 ### STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
 ### STEP 3: Click on 'Material Spool' then material spool will be shown.
@@ -16,11 +20,15 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
+
+
+
 STEP 1 : BASE
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119657657/d04433a4-74e1-44c7-856f-2eb9533f3a69)
 
 Explanation :
+
 The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
 
 STEP 2 : EXTRUDER
